@@ -1,2 +1,2 @@
-# Movie-list App 2023 - in progress
+# Movie-list App 2023
 
